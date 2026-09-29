@@ -1,0 +1,32 @@
+第三方軟體聲明（THIRD-PARTY NOTICES）
+
+本軟體發佈包內含下列第三方軟體或其執行時期元件，各依其原授權條款散布：
+
+1. Python
+   Copyright (c) Python Software Foundation
+   授權：PSF License Agreement
+   https://docs.python.org/3/license.html
+
+2. Tcl/Tk（tkinter 圖形介面之底層）
+   Copyright (c) the Tcl Core Team and contributors
+   授權：Tcl/Tk License（BSD 式）
+   https://www.tcl.tk/software/tcltk/license.html
+
+3. httpx（HTTP 用戶端，含其相依 httpcore、h11、certifi、idna、anyio、sniffio）
+   Copyright (c) Encode OSS Ltd.
+   授權：BSD 3-Clause
+   https://github.com/encode/httpx/blob/master/LICENSE.md
+   （certifi 為 MPL-2.0；idna 為 BSD 3-Clause；anyio/sniffio 為 MIT）
+
+4. PyInstaller（打包工具；發佈包內含其 bootloader）
+   Copyright (c) PyInstaller Development Team
+   授權：GPL 2.0 with a special exception which allows to use PyInstaller
+   to build and distribute non-free programs (including commercial ones)
+   https://github.com/pyinstaller/pyinstaller/blob/develop/COPYING.txt
+
+5. gpss-tipo（GPSS API 用戶端之原始實作，本軟體之改作來源）
+   Copyright (c) 總承事務所 / 楊杰凱專利師
+   授權：MIT License
+
+以上授權全文可循各連結取得；如發佈包內漏列任何應聲明之元件，
+請回報以便更正。
