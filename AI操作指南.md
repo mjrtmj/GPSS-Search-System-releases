@@ -1,6 +1,6 @@
 # GPSS 檢索系統 — AI 操作指南（gpss-cli）
 
-版本: v0.5.2
+版本: v0.5.3
 
 本文件是給 **AI 代理**（Claude、ChatGPT、Codex、Copilot…）讀的操作合約。
 使用者只要把這份文件貼給 AI，AI 就能透過命令列操作本工具檢索 TIPO GPSS 全球專利資料庫。
